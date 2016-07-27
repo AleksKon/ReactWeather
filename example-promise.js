@@ -46,7 +46,7 @@ function addPromise(a, b){
 
 
 addPromise(5,6).then(function(sum){
-	console.log('Promise success', sum);
+	console.log('Promise success!', sum);
 },function(err){
 	console.log('Promise error', err);
 });
