@@ -17,7 +17,7 @@ var Examples = (props) => {
 	return(
 			<div>
 				<h2>Examples Component</h2>
-				
+				<p>Welcome to the examples page</p>
 			</div>
 			
 		);
